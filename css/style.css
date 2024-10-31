@@ -1053,10 +1053,6 @@ a:focus {
   border-right: 1px solid #ffffff;
 }
 
-.footer .footer-menu p:last-child {
-  border: none;
-}
-
 .footer .footer-social {
   position: relative;
   margin-top: 15px;
