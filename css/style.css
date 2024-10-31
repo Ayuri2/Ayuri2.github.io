@@ -1087,6 +1087,9 @@ a:focus {
   background: rgba(256, 256, 256, 0.2);
 }
 
+.footer .copyright .col-md-6:last-child p {
+  text-align: right;
+}
 
 .footer .copyright {
   position: relative;
