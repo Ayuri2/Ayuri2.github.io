@@ -1108,14 +1108,6 @@ a:focus {
   text-align: right;
 }
 
-.footer .copyright p a {
-  color: #ffffff;
-  font-weight: 600;
-}
-
-.footer .copyright p a:hover {
-  color: #414141;
-}
 
 @media (max-width: 575.98px) {
   .footer .footer-info h2 {
