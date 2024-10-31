@@ -1077,6 +1077,17 @@ a:focus {
   color: #91afff;
 }
 
+.footer .copyright::before {
+  position: absolute;
+  content: "";
+  width: 50%;
+  height: 1px;
+  top: 0;
+  left: 25%;
+  background: rgba(256, 256, 256, 0.2);
+}
+
+
 .footer .copyright {
   position: relative;
   text-align: center;
@@ -1088,10 +1099,6 @@ a:focus {
 .footer .copyright p {
   margin: 0;
   color: #ffffff;
-}
-
-.footer .copyright .col-md-6:last-child p {
-  text-align: right;
 }
 
 .footer .copyright p a {
